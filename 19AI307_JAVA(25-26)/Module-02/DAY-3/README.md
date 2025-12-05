@@ -24,8 +24,8 @@ To write a Java program that demonstrates the use of access specifiers, specific
  ```
 /*
 Program to implement a Methods using Java
-Developed by: Lokeshwaran S
-RegisterNumber: 212224240080
+Developed by: Hari Nivedhan P
+RegisterNumber: 212224220031
 */
 ```
 
@@ -83,6 +83,7 @@ public class Main
 
 ## RESULT:
 Thus, a Java program to implement Access Specifiers using private variables with public getter and setter methods was executed successfully.
+
 
 
 
