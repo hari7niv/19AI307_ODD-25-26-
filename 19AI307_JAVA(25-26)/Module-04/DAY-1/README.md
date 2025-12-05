@@ -27,8 +27,8 @@ To write a Java program to demonstrate NullPointerException when calling .toStri
  ```
 /*
 Program to implement a Methods using Java
-Developed by: Lokeshwaran S
-RegisterNumber: 212224240080
+Developed by: Hari Nivedhan P
+RegisterNumber: 212224220031
 */
 ```
 
@@ -106,4 +106,5 @@ RegisterNumber:
 
 
 ## RESULT:
+
 
