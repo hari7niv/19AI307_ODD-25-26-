@@ -26,8 +26,8 @@ To write a Java program that implements the Factory Design Pattern to create and
  ```
 /*
 Program to implement a Methods using Java
-Developed by: Lokeshwaran S
-RegisterNumber: 212224240080
+Developed by: Hari Nivedhan P
+RegisterNumber: 212224220031
 */
 ```
 
@@ -109,6 +109,7 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program to simulate Shape Drawing using the Factory Design Pattern was successfully implemented and executed.
+
 
 
 
