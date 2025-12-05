@@ -25,8 +25,8 @@ To write a Java program that demonstrates calling one method from another method
  ```
 /*
 Program to implement a Methods using Java
-Developed by: Lokeshwaran S
-RegisterNumber: 212224240080
+Developed by: Hari Nivedhan P
+RegisterNumber: 212224220031
 */
 ```
 
@@ -62,6 +62,7 @@ public class Main
 
 ## RESULT:
 Thus, the Java program to calculate the cube of a number by calling the square method internally was successfully implemented and executed.
+
 
 
 
