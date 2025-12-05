@@ -33,8 +33,8 @@ To write a Java program that demonstrates the Singleton Design Pattern, ensuring
  ```
 /*
 Program to implement a Methods using Java
-Developed by: Lokeshwaran S
-RegisterNumber: 212224240080
+Developed by: Hari Nivedhan P
+RegisterNumber: 212224220031
 */
 ```
 
@@ -84,6 +84,7 @@ public class prog {
 
 ## RESULT:
 Thus, the program to simulate a Singleton Print Spooler Manager using SOLID principles was successfully implemented and executed.
+
 
 
 
