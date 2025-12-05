@@ -21,8 +21,8 @@ To write a Java program demonstrating runtime polymorphism using method overridi
  ```
 /*
 Program to implement a Methods using Java
-Developed by: Lokeshwaran S
-RegisterNumber: 212224240080
+Developed by: Hari Nivedhan P
+RegisterNumber: 212224220031
 */
 ```
 
@@ -89,6 +89,7 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program demonstrating Polymorphism using Method Overriding was successfully executed.
+
 
 
 
