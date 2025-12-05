@@ -21,8 +21,8 @@ To write a Java program that demonstrates the use of access modifiers through st
  ```
 /*
 Program to implement a Methods using Java
-Developed by: Lokeshwaran S
-RegisterNumber: 212224240080
+Developed by: Hari Nivedhan P
+RegisterNumber: 212224220031
 */
 ```
 
@@ -62,6 +62,7 @@ class prog {
 
 ## RESULT:
 Thus, a Java program to implement Access Modifiers with static and non-static methods was executed successfully.
+
 
 
 
